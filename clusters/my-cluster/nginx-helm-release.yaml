@@ -16,11 +16,11 @@ spec:
   values:
     indexHTML: |-
       <!doctype html>
-        <html>
-        <head>
-          <title>My Custom Page</title>
-        </head>
-        <body>
-          <h1>Welcome to my custom nginx page!!!</h1>
-        </body>
-        </html>
+      <html>
+      <head>
+        <title>My Custom Page</title>
+      </head>
+      <body>
+        <h1>Welcome to my custom nginx page!!!</h1>
+      </body>
+      </html>
